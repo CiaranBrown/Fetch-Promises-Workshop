@@ -1,4 +1,3 @@
-Fetch-Promises-Workshop
+Founders & Coders Javascript Workshop Challenges
 
-
-Founders &amp; Coders Workshop
+Fetch & Promises workshop complete!
